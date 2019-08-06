@@ -1,0 +1,28 @@
+PODS:
+  - IGListKit (3.4.0):
+    - IGListKit/Default (= 3.4.0)
+  - IGListKit/Default (3.4.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.4.0)
+  - Masonry (1.1.0)
+  - MJExtension (3.1.0)
+
+DEPENDENCIES:
+  - IGListKit
+  - Masonry
+  - MJExtension
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IGListKit
+    - Masonry
+    - MJExtension
+
+SPEC CHECKSUMS:
+  IGListKit: 7a5d788e9fb746bcd402baa8e8b24bc3bd2a5a07
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 6b69b3bef2864fd550ce1a184eda219e321209d2
+
+PODFILE CHECKSUM: 240c30efd9d1d1303dfb636893c750919c1182b4
+
+COCOAPODS: 1.7.5
